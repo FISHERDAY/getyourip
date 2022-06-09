@@ -2,7 +2,7 @@
   "name": "getyourlocalip",
   "version": "1.0.1-alpha",
   "description": "tiny package to get local ip",
-  "main": "test.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/FISHERDAY/getyourlocalip.git"
