@@ -21,7 +21,7 @@ git clone https://github.com/FISHERDAY/getyourip
 Get your local ip address immediately.
 
 ```js
-let ip = require('getipinfotest');
+let ip = require('getyourip');
 
 console.log(ip.getLocalIp());
 //=> '192.168.1.108'
