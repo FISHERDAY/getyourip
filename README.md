@@ -7,7 +7,7 @@ A tiny node.js module to getting your local ip adress.
 ### npm
 
 ```sh
-npm install getipinfotest
+npm install getyourip
 ```
 
 ### git
