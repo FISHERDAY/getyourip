@@ -1,4 +1,4 @@
-# getipinfotest
+# getyourlocalip
 
 A tiny node.js module to getting your local ip adress.
 
@@ -7,13 +7,13 @@ A tiny node.js module to getting your local ip adress.
 ### npm
 
 ```sh
-npm install getyourip
+npm install getyourlocalip
 ```
 
 ### git
 
 ```shell
-git clone https://github.com/FISHERDAY/getyourip
+git clone https://github.com/FISHERDAY/getyourlocalip
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ git clone https://github.com/FISHERDAY/getyourip
 Get your local ip address immediately.
 
 ```js
-let ip = require('getyourip');
+let ip = require('getyourlocalip');
 
 console.log(ip.getLocalIp());
 //=> '192.168.1.108'

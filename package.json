@@ -1,11 +1,11 @@
 {
-  "name": "getyourip",
+  "name": "getyourlocalip",
   "version": "1.0.1-alpha",
   "description": "tiny package to get local ip",
   "main": "test.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FISHERDAY/getyourip.git"
+    "url": "https://github.com/FISHERDAY/getyourlocalip.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
