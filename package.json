@@ -1,16 +1,20 @@
 {
   "name": "getyourip",
-  "version": "1.0.1-alpha",
+  "version": "1.0.3-alpha",
   "description": "tiny package to get local and public ip",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FISHERDAY/getyourip.git"
+    "url": "git+https://github.com/FISHERDAY/getyourip.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FISHERDAY/getyourip/issues"
+  },
+  "homepage": "https://github.com/FISHERDAY/getyourip#readme"
 }
